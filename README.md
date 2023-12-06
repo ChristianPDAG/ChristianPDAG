@@ -1,4 +1,4 @@
-Hi 👋 My name is Christian Pérez de Arce
+Holaa 👋 Mi nombre es Christian 
 ========================================
 
 Analista Programador
@@ -6,8 +6,7 @@ Analista Programador
 
 Conocimientos básicos pero amplios, tengo un perfil full-stack pero a bajo nivel, en constante crecimiento, me gusta aprender cosas nuevas relacionadas a la tecnología, andar en moto y en bicicleta en mi tiempo libre
 
-* 🌍  Yo estoy en Chile
-* ✉️  Puedes contactarme en [christian.perezdearce@gmail.com](mailto:christian.perezdearce@gmail.com)
+* 🌍  Soy de Chile
 * 🧠  Estoy aprendiendo Cloud computing, la nube se me hace bastante interesante
 
 ### Skills
