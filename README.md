@@ -1,13 +1,13 @@
-Holaa 👋 Mi nombre es Christian 
+Hi 👋 My name is Christian
 ========================================
 
-Analista Programador
+Software Engineer
 --------------------
 
-Conocimientos básicos pero amplios, tengo un perfil full-stack pero a bajo nivel, en constante crecimiento, me gusta aprender cosas nuevas relacionadas a la tecnología, andar en moto y en bicicleta en mi tiempo libre
+Extensive knowledge in lots of technologies, i have a profile full-stack because i know about Python Development with Django in my project "moduloDonaciones" I used Javascript with bootstrap for Frontend, Python for Backend and Firebase as database, also i programmed Processes Automation with Selenium in Python in my project "SeleniumTest", i'm in contanst professional and personal growth. I like learn new things in technology world, go in motorcycle and bicycle in my free time.
 
-* 🌍  Soy de Chile
-* 🧠  Estoy aprendiendo Cloud computing, la nube se me hace bastante interesante
+* 🌍  I'm from Chile
+* 🧠  I'm learning Android development, Cloud computing , Linux and Programming best practices.
 
 ### Skills
 
